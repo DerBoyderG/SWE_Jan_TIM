@@ -8,6 +8,7 @@ namespace PROJECT
         static void Main(string[] args)
         {
             Console.WriteLine("HIII");
+            Console.WriteLine("DIN VATER ");
         }
 
 
